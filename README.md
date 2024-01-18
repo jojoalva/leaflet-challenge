@@ -29,10 +29,10 @@ You will need the following installations / coding skills to be able to replicat
 Leaflet, Javascript, HTML, CSS
 
 ## Usage
-    Please download the repository into your local drive, if you do not want to view the site on Github Pages.<br>
-    From here, you can view the leaflet code. Please click on **static** folder, **js** folder, and then the **logic.js** file to view the code.<br>
-    For the HTML code, please open the **index.html** file within an environment such as VS code.<br>
-    For the CSS code, click on **static** folder, **css** folder, and then the **style.ss** file to view the code.<br>
+    Please download the repository into your local drive, if you do not want to view the site on Github Pages.
+    From here, you can view the leaflet code. Please click on **static** folder, **js** folder, and then the **logic.js** file to view the code.
+    For the HTML code, please open the **index.html** file within an environment such as VS code.
+    For the CSS code, click on **static** folder, **css** folder, and then the **style.ss** file to view the code.
 
 
 Open the index page using your local browser app, and you can analyse earthquakes based on their magnitude and depth, across the world for the past 7 days.
